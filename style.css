@@ -1,0 +1,219 @@
+.k1{
+    width: 100%;
+    height: 100px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background: rgb(255, 255, 255);
+    text-align: right;
+}
+.pl1{
+    width: 100%;
+    height: 200px;
+    
+    
+
+}
+
+.pl1 p{
+    position: absolute;
+    top: -50px;
+    left: 45%;
+    font-size: 75px;
+    color: rgb(255, 0, 0);
+    
+
+    
+
+}
+.K2{
+
+    font-size: 30PX;
+    
+}
+.k2 ul li{
+
+    display: inline-flex;
+    padding-left: 20px;
+    font-size: 18px;
+    
+}
+.k4{
+    text-align: center;
+    
+
+}
+.k4 ul li{
+    display: inline-flex;
+    padding: 20px;
+    font-size: 18px;
+    padding-top: 50px;
+    font-family: Montserrat, sans-serif;
+}
+
+.one{
+    width: 100%;
+    height: 250px;
+    background-color: rgb(226, 0, 45);
+}
+
+.text1{
+
+    font-size: 50px;
+    color: aliceblue;
+    font-family: Montserrat, sans-serif;
+    margin-left: 320px;
+    padding-top: 40px;
+
+}
+
+.two{
+     font-size: 15px;
+     color: azure;
+     margin-left:700px ;
+     padding-top:50px ;
+
+}
+.sp{
+    width: 100px;
+     height: 400px;
+    
+}
+
+.m4{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 40px;
+
+}
+.m4 img{
+padding-left:15px;
+}
+
+.m5{
+    margin-top: -50px;
+}
+
+.m6{
+    display: grid;
+}
+
+.m6 img{
+    margin-top: 20px;
+}
+
+.m7{
+
+    width: 100%;
+    height: 300px;
+}
+
+
+.sp3{
+    margin-left: 80px;
+    margin-top:20px ;
+   
+    height: 110px;
+
+}
+.sp3 img{
+    width: 70px;
+    height: 70px;
+   
+    margin-top: 30px;
+}
+table{
+    min-width: 100%;
+}
+th{
+    text-align: left;
+}
+
+.m10{
+
+    width: 100%;
+    height: 650px;
+    background-color:#e5e5e5;
+}
+
+
+.sp4{
+
+    font-size:20px ;
+    color: #000000;
+    font-size: Montserrat, sans-serif;
+}
+
+.m8 ul{
+
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    list-style: none;
+    padding-left: 150px;
+   
+}
+
+.m8 {
+    display: flex;
+    padding-left: 100px;
+    padding-top: 20px;
+    
+}
+
+.m8 li{
+    margin-top: 25px;
+
+}
+
+
+.m9 ul {
+
+    display: flex;
+    padding-top:-100px;
+    
+
+}
+.m9 li{
+    list-style: none;
+    padding:100px;
+    
+}
+
+.sp5{
+
+    margin-top: 55px;
+}
+
+.sp6{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Montserrat, sans-serif;
+    margin-top: -80px;
+    margin-left: 70px;
+    
+    
+   }
+
+   
+
+   
+
+   
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+    
+
+
